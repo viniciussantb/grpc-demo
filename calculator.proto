@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message Operation {
+    int32 number1 = 1;
+    int32 number2 = 2;
+    string operation = 3;
+}
