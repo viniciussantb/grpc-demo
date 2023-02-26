@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/viniciussantb/grpc-demo#readme",
   "dependencies": {
-    "google-protobuf": "^3.21.2"
+    "@grpc/grpc-js": "^1.8.11",
+    "chalk": "^5.2.0",
+    "google-protobuf": "^3.21.2",
+    "grpc": "^1.24.11"
   }
 }
