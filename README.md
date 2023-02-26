@@ -1,2 +1,2 @@
 # grpc-demo
-introduction to grpc
+Basic calculator application to learn more about gRPC.
